@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmMachine", "AtmMachine\AtmMachine.csproj", "{3E58ECF2-6486-4EC0-84D2-63AB791DDC3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmMachine.Tests", "AtmMachine.Tests\AtmMachine.Tests.csproj", "{B4EFB77E-E0FD-4325-BEB0-D817BD2258AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E58ECF2-6486-4EC0-84D2-63AB791DDC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E58ECF2-6486-4EC0-84D2-63AB791DDC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E58ECF2-6486-4EC0-84D2-63AB791DDC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E58ECF2-6486-4EC0-84D2-63AB791DDC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EFB77E-E0FD-4325-BEB0-D817BD2258AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EFB77E-E0FD-4325-BEB0-D817BD2258AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EFB77E-E0FD-4325-BEB0-D817BD2258AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EFB77E-E0FD-4325-BEB0-D817BD2258AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81945F9-99E7-43E5-8B29-8463FB3CBAD9}
+	EndGlobalSection
+EndGlobal
